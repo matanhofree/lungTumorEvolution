@@ -1,0 +1,7 @@
+*~
+*.old
+*.mexmaci64
+*.mexa64
+*.o
+.DS_Store
+*.sync-conflict*
